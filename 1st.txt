@@ -1,2 +1,3 @@
-Git Repository Created
-Lets say that the website's conceptual framework and a basic layout has been Created
+1.Git Repository Created
+2.Lets say that the website's conceptual framework and a basic layout has been Created
+3.Uploading of the file
